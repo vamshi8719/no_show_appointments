@@ -1,18 +1,18 @@
 # Investigate a No-show Appointment Dataset
 This is a Udacity nano degree project to investigate a medical appointments dataset from Brazil. The goal is to predict whether a patient will show up to their scheduled appointment.  
 
-# Software and Packages
+## Software and Packages
 Jupyter Notebook  
 Pandas  
 Numpy  
 Matplotlib  
 
-# What I did
+## What I did
 
 Data Wrangling  
 Exploratory Data Analysis (EDA)  
 
-# Research Questions
+## Research Questions
 
 Analysis was performed on several characteristics and three of them were identified to predict whether a patient will show up for appointment.  
 
@@ -34,7 +34,7 @@ Number of appointments where patients do not show up for appointment reduces wit
 
 <img width="660" alt="image" src="https://github.com/vamshi8719/no_show_appointments/assets/56979563/91d5ee93-ba8e-4ce7-afec-9b332ef40163">  
 
-# Limitations
+## Limitations
 
 The dataset does not have the same number of appointments for both genders.  
 Although patient with 4 disabilities and that received an sms always missed an appointment, but it represents only 1 record in over 100,000 records. For this reason the data in column handcap has been changed to whether or not a patient has a disability.  
